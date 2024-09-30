@@ -34,6 +34,7 @@ const InfoSection = () => {
       decription: "Enjoy the best prices on our products",
     },
   ];
+  
   return (
     <div className="bg-white pb-8 pt-12">
       <div className=" container mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-4">
